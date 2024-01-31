@@ -12,7 +12,8 @@ public class Main {
         System.out.println(list);
 
         for (int i = 0; i < list.size(); i++) {
-                System.out.println("Element pętli " + list.get(i));
+            int j = i + 1;
+                System.out.println("Element " + j  + " to: " + list.get(i));
             }
         }
     }
