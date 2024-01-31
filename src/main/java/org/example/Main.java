@@ -11,10 +11,9 @@ public class Main {
         list.add("c");
         System.out.println(list);
 
-        for (int i = 0; i <= 0; i++) {
-            System.out.println("Pierwszy element z listy to: " + list.get(0));
-            System.out.println("Drugi element z listy to : " + list.get(1));
-            System.out.println("Trzeci element z listy to: " + list.get(2));
+        for (int i = 0; i < list.size(); i++) {
+                System.out.println("Element pętli " + list.get(i));
+            }
         }
     }
-}
+
