@@ -16,3 +16,17 @@ Hsrc/main/java/org/Exercises/Replace_a_character_at_a_specific_index.java,5\7\5
 .src/main/java/org/Exercises/Sort_a_String.java,6\9\6959692604d2c8166b57ce44c4bddf48ce2c4f56
 e
 5src/main/java/org/Exercises/String_to_lower_case.java,e\a\ead352a288b9cc5f807c40b78c2c15dd58874a8d
+[
++src/main/java/org/Exercises/Exercise10.java,1\6\16daa35c427271b394fc2464317ca734e0414045
+[
++src/main/java/org/Exercises/Exercise14.java,c\6\c691814e1f5fd08671250538416f45f6980f6527
+[
++src/main/java/org/Exercises/Exercise15.java,b\e\bed4418f15e38b9e1b1243c8b406f3b39d7c4102
+[
++src/main/java/org/Exercises/Exercise18.java,b\c\bc245fa7a77f4fbb4343803454964f53d34abdae
+Z
+*src/main/java/org/Exercises/Exercise1.java,c\2\c22b015662adcd6d98b0a3b50b06d8b671aa022b
+\
+,src/main/java/org/Exercises/Exercise1_1.java,c\9\c96b1a04e870a8716a1756e5935ed4d0ec8d9c02
+Z
+*src/main/java/org/Exercises/Exercise2.java,e\8\e818597736105df4abf0691493b4def45eaba5a5
