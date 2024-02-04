@@ -30,3 +30,11 @@ Z
 ,src/main/java/org/Exercises/Exercise1_1.java,c\9\c96b1a04e870a8716a1756e5935ed4d0ec8d9c02
 Z
 *src/main/java/org/Exercises/Exercise2.java,e\8\e818597736105df4abf0691493b4def45eaba5a5
+Z
+*src/main/java/org/Exercises/Exercise3.java,6\d\6df9914c846398cb888ce165a46ca3ca1ea0cc5f
+Z
+*src/main/java/org/Exercises/Exercise4.java,b\8\b83dfd7598cb61c37b32a1174399796d01651c51
+Z
+*src/main/java/org/Exercises/Exercise5.java,7\8\78a01703b91f775ddd308939e3e1ce17ebcbacbf
+[
++src/main/java/org/Exercises/Calculator.java,7\c\7c83a985568a11143fe17b51ed185ce6485c6ae5
