@@ -1,6 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-public class Exercise10 {
+public class Pyramid_number_pattern {
     //    Write a Program to Print Pyramid Number Pattern in Java.
     public static void main(String[] args) {
         int num = 5;

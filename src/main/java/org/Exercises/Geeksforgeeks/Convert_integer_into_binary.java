@@ -1,6 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-public class Exercise4 {
+public class Convert_integer_into_binary {
     //Write a Java Program to convert Integer numbers and Binary numbers.
 
     static void decToBinary(int n) {

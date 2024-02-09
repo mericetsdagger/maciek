@@ -1,8 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-import java.util.Arrays;
-
-public class Exercise1 {
+public class Merge_two_arrays {
     ////Java Program to Merge Two Arrays Metoda 1
     public static void main(String[] args) {
 

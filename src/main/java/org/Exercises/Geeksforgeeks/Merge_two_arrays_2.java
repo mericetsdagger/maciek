@@ -1,8 +1,8 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 import java.util.Arrays;
 
-public class Exercise1_1 {
+public class Merge_two_arrays_2 {
     public static void main(String[] args) {
 
 

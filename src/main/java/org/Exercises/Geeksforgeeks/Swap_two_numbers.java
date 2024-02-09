@@ -1,6 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-public class Exercise3 {
+public class Swap_two_numbers {
     //Write a Program to Swap Two Numbers
 static void swapNumbers(int a, int b) {
 int num = a;

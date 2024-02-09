@@ -1,8 +1,8 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 import java.util.Arrays;
 
-public class Exercise21 {
+public class Are_two_Strings_anagram {
     //    Java Program To Check Whether Two Strings Are Anagram
 
     static boolean areAnagram(char[] array1, char[] array2) {

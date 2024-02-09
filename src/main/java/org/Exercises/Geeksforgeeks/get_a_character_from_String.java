@@ -1,4 +1,4 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 public class get_a_character_from_String {
 

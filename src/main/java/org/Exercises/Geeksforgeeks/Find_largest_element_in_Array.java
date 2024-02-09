@@ -1,8 +1,8 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 import java.util.Arrays;
 
-public class Exercise15 {
+public class Find_largest_element_in_Array {
     //    Write a Java Program to Find the Largest Element in Array
     static int[] array = {100, 25, 1000, 8024, 1192};
 

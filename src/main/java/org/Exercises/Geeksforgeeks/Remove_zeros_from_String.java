@@ -1,6 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-public class Exercise23 {
+public class Remove_zeros_from_String {
 //    Remove Leading Zeros From String in Java
 
     static String removeZero(String string) {

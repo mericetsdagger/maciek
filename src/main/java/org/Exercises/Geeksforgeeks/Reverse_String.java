@@ -1,4 +1,4 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 public class Reverse_String {
     public static void main(String[] args) {

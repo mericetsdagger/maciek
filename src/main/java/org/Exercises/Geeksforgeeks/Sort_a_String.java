@@ -1,4 +1,4 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 import java.util.Arrays;
 

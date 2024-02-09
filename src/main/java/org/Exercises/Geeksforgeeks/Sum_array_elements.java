@@ -1,8 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-import java.util.Arrays;
-
-public class Exercise14 {
+public class Sum_array_elements {
 //    Write a Java Program to Compute the Sum of Array Elements.
 
 static int[] array = {5 , 10, 15, 20, 39};

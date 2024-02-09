@@ -1,4 +1,4 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 public class Replace_a_character_at_a_specific_index {
     public static void main(String[] args) {

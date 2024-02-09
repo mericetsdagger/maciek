@@ -1,8 +1,8 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
 import java.util.Arrays;
 
-public class Exercise2 {
+public class Check_if_two_arrays_are_equal_or_not {
     public static void main(String[] args) {
 
 

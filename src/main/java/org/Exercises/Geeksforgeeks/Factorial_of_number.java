@@ -1,6 +1,6 @@
-package org.Exercises;
+package org.Exercises.Geeksforgeeks;
 
-public class Exercise5 {
+public class Factorial_of_number {
     //Java Program for factorial of a number
     public static void main(String[] args) {
 
