@@ -128,3 +128,17 @@ esrc/main/java/org/Exercises/w3resource_exercises/create_string_object_with_cont
 ]src/main/java/org/Exercises/w3resource_exercises/Check_if_two_strings_contains_same_data.java,0\a\0ad0618017452940086f65181c5822ec4cdd4be3
 “
 csrc/main/java/org/Exercises/w3resource_exercises/Compare_given_string_to_another_ignoring_case.java,a\7\a79d8da781bfe840fb70a4791f5fb542680c3c8b
+V
+&src/main/java/org/example/cwicze1.java,2\d\2d4d628489d94bc214702c339fd1613701830a77
+z
+Jsrc/main/java/org/Exercises/JavaStart_Ä‡wiczenia/Guess_game/GuessGame.java,6\3\6357364d9c11a7a1eb33d5d982d1d4c18fa13882
+s
+Csrc/main/java/org/Exercises/JavaStart_Ä‡wiczenia/PÄ™tla/PÄ™tla.java,9\4\946bb65db02f8c38985f6e7c1348bfbab42f35d2
+~
+Nsrc/main/java/org/Exercises/w3resource_exercises/Enum_called_Days_of_week.java,2\7\276ce2b80bca7a89e2d17f44b32ca31837994f0c
+
+Osrc/main/java/org/Exercises/w3resource_exercises/Are_Integers_equal_or_not.java,1\7\17b91a8b83b06dd7a7932367944c8b7757e77dec
+„
+Tsrc/main/java/org/Exercises/w3resource_exercises/Find_largest_elements_in_array.java,3\f\3fb5879048d176c8e088ed30676b96ed44a8d7ba
+…
+Usrc/main/java/org/Exercises/w3resource_exercises/Find_smallest_elements_in_array.java,c\b\cb3073050fc7ee8b7fa15a93341ba003829fd996
