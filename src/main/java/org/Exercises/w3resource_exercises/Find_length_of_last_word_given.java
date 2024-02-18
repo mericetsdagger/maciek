@@ -1,6 +1,6 @@
 package org.Exercises.w3resource_exercises;
 
-public class Find_lenght_of_last_word_given {
+public class Find_length_of_last_word_given {
     public static void main(String[] args) {
         String word1 = "The length of last word";
         System.out.println(word1);
