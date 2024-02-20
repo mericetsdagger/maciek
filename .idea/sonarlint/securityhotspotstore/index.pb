@@ -152,8 +152,6 @@ Psrc/main/java/org/Exercises/JavaStart_ćwiczenia/Klasa_String/String_metody.jav
 Msrc/main/java/org/Exercises/JavaStart_ćwiczenia/Klasa_String/Formatting.java,4\f\4f9865489472e74d5f84a89db2115c06f14c6786
 �
 \src/main/java/org/Exercises/w3resource_exercises/Segregate_even_numbers_and_odd_numbers.java,b\0\b03724759f0635b24df33b1e37cfd8becaaa4cdb
-�
-Tsrc/main/java/org/Exercises/w3resource_exercises/Find_lenght_of_last_word_given.java,c\f\cfe2bbd2056bed95d2bc0653ef71e786cdc51b04
 {
 Ksrc/main/java/org/Exercises/w3resource_exercises/Compute_and_print_sum.java,e\b\eb22603db602f2a4e52334fb05b75cf677ebd079
 �
@@ -184,8 +182,6 @@ Ksrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Sum_array_elements.java,e\
 Vsrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Find_largest_element_in_array.java,2\6\26b1278515944727a7ae69962c2f7527cdbb3d34
 
 Osrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Find_largest_element_2.java,3\4\34cb819df42a8aaaafc9bb78a1f72ff75ef1104d
-o
-?src/main/java/org/Exercises/Geeksforgeeks/Powtórka/Cwicze.java,b\4\b473e936a7ef8e143d878b058e8a60f323863ac5
 z
 Jsrc/main/java/org/Exercises/Geeksforgeeks/get_a_character_from_String.java,f\0\f01c6a6719b05de98c4c5a020a3d3d2a61f0bd04
 m
@@ -198,7 +194,15 @@ Csrc/main/java/org/Exercises/Geeksforgeeks/String_to_lower_case.java,e\f\ef648b
 Vsrc/main/java/org/Exercises/Geeksforgeeks/Replace_a_character_at_a_specific_index.java,8\0\8094f9ee6f3ad6bde1a51968e237d7f59e293bb7
 x
 Hsrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Find_char_index.java,0\f\0fc5773a208a8ed97400ef383a74e24a0d743acb
-z
-Jsrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Sort_elemends_dsc.java,a\7\a774043950b90061bb952474f2a3e7cce0b092c8
 �
 Tsrc/main/java/org/Exercises/w3resource_exercises/Find_length_of_last_word_given.java,6\e\6e18a702ac89fff5a8c6ee7d0faab783731e9f4f
+
+Osrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/check_if_is_palindrome.java,f\d\fd76f74e140b0d57a1260a6a626b68dcac48a28b
+p
+@src/main/java/org/Exercises/Geeksforgeeks/Powtórka/ćwicze.java,4\5\45ca919dfeaf2a0fb0f11da0d61064768deef45a
+y
+Isrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/check_if_anagram.java,c\5\c58cc82d1cbf25d28e242243f0c2c9ceb11f56f3
+w
+Gsrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/reverse_string.java,7\a\7a78c5ca6e3e3f870c6989450eb7690856dedfa6
+�
+Psrc/main/java/org/Exercises/Geeksforgeeks/Powtórka/Remove_zero_from_string.java,0\a\0a9a22cb788b57a982347871e49a79ac6c294394
