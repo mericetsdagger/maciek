@@ -78,8 +78,6 @@ z
 Jsrc/main/java/org/Exercises/Geeksforgeeks/Convert_integer_into_binary.java,e\5\e5d8e36a426845ac9a25824631c343e6c40e6803
 r
 Bsrc/main/java/org/Exercises/Geeksforgeeks/Factorial_of_number.java,6\5\65fd0d0a6d1b418565e0e7e9b639add7b20c6c73
-u
-Esrc/main/java/org/Exercises/Geeksforgeeks/Pyramid_number_pattern.java,a\f\aff92c96530541c8cd9b82061aa3cbbddeacc700
 q
 Asrc/main/java/org/Exercises/Geeksforgeeks/Sum_array_elements.java,7\2\72505d247e61f37b4c67aafb1a6e2575e83ceb12
 |
@@ -198,11 +196,11 @@ Hsrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/Find_char_index.java,0\f\0
 Tsrc/main/java/org/Exercises/w3resource_exercises/Find_length_of_last_word_given.java,6\e\6e18a702ac89fff5a8c6ee7d0faab783731e9f4f
 
 Osrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/check_if_is_palindrome.java,f\d\fd76f74e140b0d57a1260a6a626b68dcac48a28b
-p
-@src/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/膰wicze.java,4\5\45ca919dfeaf2a0fb0f11da0d61064768deef45a
 y
 Isrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/check_if_anagram.java,c\5\c58cc82d1cbf25d28e242243f0c2c9ceb11f56f3
 w
 Gsrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/reverse_string.java,7\a\7a78c5ca6e3e3f870c6989450eb7690856dedfa6
 �
 Psrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/Remove_zero_from_string.java,0\a\0a9a22cb788b57a982347871e49a79ac6c294394
+s
+Csrc/main/java/org/Exercises/Geeksforgeeks/Powt贸rka/膰wiczenie.java,e\5\e59aa5765bb8b50b36844c41c56aaed728725aee
