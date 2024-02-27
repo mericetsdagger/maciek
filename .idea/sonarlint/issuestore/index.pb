@@ -12,14 +12,6 @@ Osrc/main/java/org/Exercises/JavaStart_ćwiczenia/Kalkulator_płac/Employee.java
 Xsrc/main/java/org/Exercises/JavaStart_ćwiczenia/Kalkulator_płac/PaymentCalculator.java,e\0\e0ad21250278f1a54906732fde5a071986ca0cf8
 �
 Rsrc/main/java/org/Exercises/JavaStart_ćwiczenia/Kalkulator_płac/PaymentTest.java,a\1\a19a7f177fd2fab6f2b61f4743ce6d6885df8d45
-v
-Fsrc/main/java/org/Exercises/JavaStart_ćwiczenia/Wisielec/Hangman.java,f\3\f3dd73b4f6e068e8589fed0233b166e25fa840d1
-|
-Lsrc/main/java/org/Exercises/JavaStart_ćwiczenia/Wisielec/WordsDatabase.java,e\a\eae344e10b3d95fcd88e5c699dea6c7de02967e4
-s
-Csrc/main/java/org/Exercises/JavaStart_ćwiczenia/Wisielec/Game.java,7\6\76f5bf24a8cdc61ede8510d8ae27767e9ad5774a
-s
-Csrc/main/java/org/Exercises/JavaStart_ćwiczenia/Wisielec/Main.java,e\d\ed40e8510d797cb47485f371c405e5169360a256
 �
 Rsrc/main/java/org/Exercises/JavaStart_ćwiczenia/Sumowanie_liczb/Number_adder.java,2\2\22d07a799b09b430b626a273e35f357c99eccee3
 z
